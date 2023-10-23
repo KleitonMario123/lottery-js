@@ -15,9 +15,10 @@ header{
 
 main{
     display: flex;
+    justify-content: space-around
 }
 
-.numbers-panels{
+.number-panels{
     background-color: white;
     display: flex;
     flex-wrap: wrap;
